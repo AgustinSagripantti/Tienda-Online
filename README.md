@@ -1,8 +1,18 @@
-# React + Vite
+# Tienda Online
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+Proyecto basado en las funcionalidades necesarias de una tienda online. Contiene filtrado de productos por categoría y/o precio, además de poseer un carrito de compra que es almacenado en el local storage.
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
+HTML
+CSS
+REACT
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Conclusión
+Éste proyecto me ayudó a aprender habilidades muy útiles y aplicables en cualquier aplicación web. Personalmente, éste desarrollo me gustó y me motivó mucho al saber que tiene una utilidad real, y es una habilidad muy demandada en la actualidad.  
+
+## Contribuciones
+Todas las contribuciones son bienvenidas. Sientase libre de realizar su PR.
+
+## Contacto
+Agustin Sagripantti - asagripantti@gmail.com
